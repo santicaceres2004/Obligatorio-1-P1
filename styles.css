@@ -1,0 +1,70 @@
+/* Trabajo realizado por Caceres,Santiago (267231) y Rodriguez,Enzo () */
+
+
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #ffffff;
+}
+
+header {
+text-align: center;
+}
+
+nav {
+    text-align: right;
+    background-color: #2D2D2D;
+    padding: 10px;
+}
+
+nav a {
+    text-decoration: none;
+    color: white;
+    padding: 5px;
+}
+
+input {
+    margin: 5px;
+}
+
+#art1 {
+    float: left;
+    background-color: #E9E5EF;
+    padding: 10px;
+    padding-right: 200px;
+    border: 5px solid white;
+
+}
+
+#art2 {
+padding-left: 500px;
+border: 5px solid white;
+background-color: white
+
+}
+
+#art3 {
+    padding: 10px;
+    border: 5px solid white;
+    clear: both;
+    background-color: #B8B8B8
+}
+
+#art4 {
+    padding: 10px;
+    background-color: #FFD497;
+    border: 5px solid white;
+}
+#art5 {
+padding: 10px;
+background-color: #F79429;
+border: 5px solid white;
+}
+
+/* Pie de página */
+footer {
+    text-align: center;
+    background-color: #333;
+    color: #FFF;
+    margin: 1px;
+}
